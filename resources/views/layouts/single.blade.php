@@ -105,7 +105,7 @@
 			    <footer class="footer">
 				    <div class="container text-center py-5">
 				        <small class="copyright"> Built with &nbsp; <a href="https://laravel.com/" target="_blank">Laravel</a> &nbsp;
-                  and available on <a href="https://github.com/olakunlevpn/documenter" target="_blank">GitHub</a>.&nbsp;
+                  and available on <a href="https://github.com/olakunlevpn/docs.olakunlevpn.com" target="_blank">GitHub</a>.&nbsp;
                   © {{ date('Y') }} Olakunlevpn.</small>
 				        <ul class="social-list list-unstyled pt-4 mb-0">
                   <li class="list-inline-item h3"><a href="https://github.com/olakunlevpn" target="_blank" ><i class="fab fa-github fa-fw"></i></a></li>

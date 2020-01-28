@@ -41,7 +41,7 @@
 
                   <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
                     <p class="copyright">  Built with &nbsp; <a href="https://laravel.com/" target="_blank">Laravel</a> &nbsp;
-                      and available on <a href="https://github.com/olakunlevpn/documenter" target="_blank">GitHub</a>.&nbsp;
+                      and available on <a href="https://github.com/olakunlevpn/docs.olakunlevpn.com" target="_blank">GitHub</a>.&nbsp;
                       © {{ date('Y') }} Olakunlevpn.</p>
 
 
