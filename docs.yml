@@ -15,22 +15,3 @@ Sample-Docs-Three:
     demo: http://docs.olakunlevpn.com/sampledocsthree
     support: http://olakunlevpn.com/contact
     repository: https://github.com/olakunlevpn/Sample-three.git
-
-
-easylogin-pro:
-    name: EasyLogin Pro
-    demo: https://demo.hazzardweb.com/easylogin-pro/
-    support: http://codecanyon.net/item/easylogin-pro-user-membership-system/8585802/support
-    repository: https://github.com/hazzardweb/easylogin-pro-docs.git
-
-imagepicker:
-    name: Image Picker
-    demo: https://demo.hazzardweb.com/imagepicker/
-    support: http://codecanyon.net/item/imagepicker-uploader-webcam-cropper/6722532/support
-    repository: https://github.com/hazzardweb/imagepicker-docs.git
-
-laravel-comments:
-    name: Laravel Comments
-    demo: https://laravel-comments.demo.hazzardweb.com/
-    support: http://codecanyon.net/item/ajax-comment-system-for-laravel/12660889/support
-    repository: https://github.com/hazzardweb/laravel-comments-docs.git
